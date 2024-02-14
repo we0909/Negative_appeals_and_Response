@@ -24,7 +24,7 @@ You may find a complete example on how to use Stata at the following website:
 https://www.stata.com/links/video-tutorials/)https://www.stata.com/links/video-tutorials/
 
 4.Instruction for use
-First, please download the code and data of this manuscript in your computer. Then, open the Stata application on your computer and load the data using the following code.
+First, please download and unzip the "data_code.zip" in your computer. Then, open the Stata and load the data using the following code.
 
 There's no need to worry about the correspondence between the code and so many result tables, as we have marked the indicators and the tables they belong to in the code file “reg_code.do”.
 
